@@ -1,5 +1,9 @@
 # declare and fill out function here
-
+def youngest_student2(dict):
+  sortedDict = sorted(dict.values())
+  for k, v in dict.items():
+    if v == sortedDict[0]:
+      return k
 
 
 # test case
