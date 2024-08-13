@@ -3,8 +3,9 @@ Solve 3 problems in the `problems` folder. Test cases are provided in `main.py`.
 
 ### Important
 Do not use any LLMs or AI assistance of any sort. 
-You may refer to the official python documentation [https://docs.python.org/3/library/index.html] or the official git documentation [https://git-scm.com/doc] but do not search the internet for solutions or help. 
-This exercise is to determine your skills in solving problems and developing logic using Python.
+- You may refer to the official python documentation [https://docs.python.org/3/library/index.html] or the official git documentation [https://git-scm.com/doc] but do not search the internet for solutions or help. 
+- This exercise is to determine your skills in solving problems and developing logic using Python.
+- To run a python file (in most IDEs), click the play button.
 
 # Getting Started
 1. Ensure Python 3 is installed on your device BEFORE BEGINNING ASSESSMENT. Use Fiserv Software Center for installation.
