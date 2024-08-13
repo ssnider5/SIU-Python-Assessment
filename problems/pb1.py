@@ -1,5 +1,5 @@
 # declare and fill out function here
-
+hello how are you
 
 # test case
 sentence = "Test  This is a test   Testing "
