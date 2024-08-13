@@ -1,5 +1,6 @@
 # declare and fill out function here
-
+def replace_spaces(sentence, replacement):
+  return sentence.replace(' ', replacement)
 
 # test case
 sentence = "Test  This is a test   Testing "
