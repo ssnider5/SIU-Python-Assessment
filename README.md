@@ -1,4 +1,4 @@
-# Python II Quiz - coding challenges
+# Python Assessment - coding challenges
 Solve 3 problems in the `problems` folder. Test cases are provided in `main.py`. Work on the problems in their respective files, uncomment the appropriate test case(s) and run `main.py` to see if your solution is working. Follow the [Getting Started](#GettingStarted) section below and the [Completion](##Completion) section at the bottom of this README.
 
 ### Important
