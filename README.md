@@ -1,4 +1,4 @@
-# Python Assessment - coding challenges
+# SIU-Python-Assessment
 Solve 3 problems in the `problems` folder. Test cases are provided in `main.py`. Work on the problems in their respective files, uncomment the appropriate test case(s) and run `main.py` or individual problem file to see if your solution is working. Follow the [Getting Started](#GettingStarted) section below and the [Completion](##Completion) section at the bottom of this README.
 
 ### Important
@@ -7,9 +7,10 @@ You may refer to the official python documentation [https://docs.python.org/3/li
 This exercise is to determine your skills in solving problems and developing logic using Python.
 
 # Getting Started
-1. Fork and clone this repo - no branches, no PRs
-2. Launch repo in your IDE of choice
-3. Run the main file, you should see the following in your terminal output:
+1. Ensure Python 3 is installed on your device BEFORE BEGINNING ASSESSMENT. Use Fiserv Software Center for installation.
+2. Fork and clone this repo - no branches, no PRs
+3. Launch repo in your IDE of choice
+4. Run the main file, you should see the following in your terminal output:
 
     ding dong
     who's there
