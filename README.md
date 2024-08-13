@@ -3,7 +3,7 @@ Solve 3 problems in the `problems` folder. Test cases are provided in `main.py`.
 
 ### Important
 Do not use any LLMs or AI assistance of any sort. 
-You may refer to the official python documentation [https://docs.python.org/3/library/index.html] but do not search the internet for solutions or help. 
+You may refer to the official python documentation [https://docs.python.org/3/library/index.html] or the official git documentation [https://git-scm.com/doc] but do not search the internet for solutions or help. 
 This exercise is to determine your skills in solving problems and developing logic using Python.
 
 # Getting Started
@@ -59,4 +59,5 @@ Alice
 ```
 
 ## Completion
-Push up your work to your fork, before time runs out.
+Before time is up, git add, git commit and git push to YOUR FORK.
+Do not create any Pull Requests.
