@@ -1,5 +1,5 @@
 # Python Assessment - coding challenges
-Solve 3 problems in the `problems` folder. Test cases are provided in `main.py`. Work on the problems in their respective files, uncomment the appropriate test case(s) and run `main.py` to see if your solution is working. Follow the [Getting Started](#GettingStarted) section below and the [Completion](##Completion) section at the bottom of this README.
+Solve 3 problems in the `problems` folder. Test cases are provided in `main.py`. Work on the problems in their respective files, uncomment the appropriate test case(s) and run `main.py` or individual problem file to see if your solution is working. Follow the [Getting Started](#GettingStarted) section below and the [Completion](##Completion) section at the bottom of this README.
 
 ### Important
 Do not use any LLMs or AI assistance of any sort. 
